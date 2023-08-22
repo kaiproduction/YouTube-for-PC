@@ -1,6 +1,6 @@
 # YouTube-for-PC
 
-![Логотип](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AYouTube_full-color_icon_%25282017%2529.svg&psig=AOvVaw0OjrSznHONaBd5ORUQxlvq&ust=1692792006717000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDE6uOb8IADFQAAAAAdAAAAABAE)
+![Логотип](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png)
 
 Цей додаток дозволяє користувачам переглядати YouTube відео та відтворювати музику за допомогою інтерфейсу PyQt5.
 
